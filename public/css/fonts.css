@@ -1,5 +1,10 @@
 @font-face {
     font-family: 'PN';
+    src: url('../fonts/PN-Regular.otf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'PN';
     src: url('../fonts/PN-Bold.otf');
     font-weight: 700;
 }

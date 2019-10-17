@@ -4,10 +4,9 @@ import router from './router'
 import Header from './components/layouts/Header'
 import Banner from './components/pages/home/Banner'
 import $ from 'jquery';
-import Swiper from 'swiper';
 
 Vue.config.productionTip = false
-Vue.use(Swiper);
+// Vue.use(Swiper);
 
 Vue.component('bms-header', Header);
 Vue.component('bms-home-banner', Banner);

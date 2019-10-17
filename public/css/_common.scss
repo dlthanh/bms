@@ -2,10 +2,21 @@
     width: 1120px;
     margin: 0 auto;
 }
+.w1180 {
+    width: 1180px;
+    margin: 0 auto;
+}
 
 a {
     text-decoration: none;
 }
 img, video {
     vertical-align: middle;
+}
+
+footer {
+    margin-top: 120px;
+    img {
+        width: 100%;
+    }
 }
